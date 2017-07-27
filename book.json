@@ -1,12 +1,13 @@
 {
-    "titles":"机器学习笔记",
-    "plugins": [ "theme-faq", 
+    "plugins": [
+                "theme-faq", 
                 "KaTex",
-                "baidu",
-                "-fontsettings"]
-    "pluginsConfig":{
-        "baidu": {
-            "token": "a9787f0ab45d5e237bab522431d0a7ec"
+                "-fontsettings"],
+    "pluginsConfig": {
+        "fontsettings": {
+            "theme": 'white', // 'sepia', 'night' or 'white',
+            "family": 'sans', // 'serif' or 'sans',
+            "size": 2         // 1 - 4
         }
     }
 }
