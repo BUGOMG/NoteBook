@@ -9,7 +9,7 @@
         "fontsettings": {
             "theme": "white", 
             "family": "sans", 
-            "size": 2
+            "size": 4
         },
         "editlink": {
           "base": "https://github.com/zhaoda/webpack-handbook/blob/master/content",
