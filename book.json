@@ -4,6 +4,7 @@
                 "KaTex",
                 "-fontsettings"],
      "pluginsConfig":{
-     
+                 "fontsettings":{
+                 }
      }
 }
