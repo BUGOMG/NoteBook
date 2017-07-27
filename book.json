@@ -2,7 +2,8 @@
     "plugins": [
                 "theme-faq", 
                 "KaTex",
-                "-fontsettings"],
+                "-fontsettings",
+                "editlink"],
     "pluginsConfig": {
         "fontsettings": {
             "theme": "white", 
