@@ -1,3 +1,12 @@
 {
-    "plugins": [ "theme-faq", "KaTex"]
+    "titles":"机器学习笔记",
+    "plugins": [ "theme-faq", 
+                "KaTex",
+                "baidu",
+                "-fontsettings"]
+    "pluginsConfig":{
+        "baidu": {
+            "token": "a9787f0ab45d5e237bab522431d0a7ec"
+        }
+    }
 }
