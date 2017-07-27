@@ -11,6 +11,3 @@ $$\begin{split}
           &= E_{x\sim P_{data}}\left[ \log P_{data}(\mathbb{X;\pmb{\theta}}) - \log P_{model} (\mathbb{X;\pmb{\theta}})\right]
 \end{split}$$
 其中第一项是常数，所以可以去掉最后为：$$-E_{x\sim P_{data}} \log P_{model} (\mathbb{X;\pmb{\theta}})$$
-
-
-#
