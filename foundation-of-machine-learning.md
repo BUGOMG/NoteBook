@@ -5,4 +5,4 @@ $$\prod_\limits{i=1}^{n}P(x_i;\pmb{\theta})=P(\mathbb{X};\pmb{\theta})$$
 &emsp;&emsp;对于未知参数$$\theta$$的最大似然估计如下
 $$\theta_{ML}=\arg\max_{\theta^*}\prod\limits_{i=1}^{n}P(x_i;\pmb{\theta^*})$$
 
-另一种最大似然估计的解释，认为它是最小化训练集分布$$P_{data}(\mathbb{X})
+另一种最大似然估计的解释，认为它是最小化训练集分布$$P_{data}(\mathbb{X};\pmb{\theta})$$与模型分布$$P_{model}(\mathbb{X};\pmb{\theta})$$之间的差异，差异使用KL散度的方式度量
