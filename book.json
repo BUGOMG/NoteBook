@@ -5,7 +5,7 @@
                 "-fontsettings"],
      "pluginsConfig":{
           "fontsettings":{
-                
+                "family": 'sans'
           }
      }
 }
