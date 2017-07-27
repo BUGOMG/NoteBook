@@ -1,4 +1,5 @@
 {
+    "language":"zh",
     "plugins": [
                 "theme-faq", 
                 "KaTex",
