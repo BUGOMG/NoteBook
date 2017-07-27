@@ -1,4 +1,3 @@
 # Summary
 
-* [What is XYZ?](first-question.md)
-* [How can I do X?](second-question.md)
+* [机器学习基础](foundation-of-machine-learning.md)
