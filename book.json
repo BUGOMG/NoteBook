@@ -1,11 +1,5 @@
 {
-    "plugins": [
-                "KaTex",
-                "editlink"],
+    "plugins": ["KaTex"],
     "pluginsConfig": {
-        "editlink": {
-          "base": "https://github.com/zhaoda/webpack-handbook/blob/master/content",
-          "label": "编辑本页"
-        }
     }
 }
