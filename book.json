@@ -1,16 +1,8 @@
 {
-    "language":"zh",
     "plugins": [
-                "theme-faq", 
                 "KaTex",
-                "-fontsettings",
                 "editlink"],
     "pluginsConfig": {
-        "fontsettings": {
-            "theme": "night", 
-            "family": "sans", 
-            "size": 4
-        },
         "editlink": {
           "base": "https://github.com/zhaoda/webpack-handbook/blob/master/content",
           "label": "编辑本页"
